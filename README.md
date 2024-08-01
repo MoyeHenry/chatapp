@@ -1,2 +1,2 @@
 # chatapp
-Encrypted project work from School
+Encrypted School project work
