@@ -1,2 +1,2 @@
-# chatapp
+# groupchatapp
 Encrypted School project work
